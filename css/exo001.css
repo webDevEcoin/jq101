@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 7px;
+    margin: 5px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.add {
+    background-color: green;
+}
+
+.remove {
+    background-color: red;
+}
+
+ul {
+    width: 50%;
+    margin: 15px;
+    list-style: none;
+    padding: 7px;
+}
+
+ul li {
+    padding: 5px;
+    background-color: aqua;
+    color: blue;
+    font-size: 2rem;
+    margin-bottom: 7px;
+}
