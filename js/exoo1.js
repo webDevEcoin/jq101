@@ -14,7 +14,6 @@ $(document).ready(function () {
         if (i < 4) {
             $(this).attr("disabled", "disabled")
         } else $("ul li").last().remove()
-
     })
 
 })
